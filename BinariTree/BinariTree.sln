@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinariTree", "BinariTree\BinariTree.csproj", "{CBB1A875-C6CC-4088-B0EF-1CE6A195029B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBB1A875-C6CC-4088-B0EF-1CE6A195029B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB1A875-C6CC-4088-B0EF-1CE6A195029B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB1A875-C6CC-4088-B0EF-1CE6A195029B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB1A875-C6CC-4088-B0EF-1CE6A195029B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {668947CE-26C4-4BFD-B6A4-8DD7F3B21C19}
+	EndGlobalSection
+EndGlobal
